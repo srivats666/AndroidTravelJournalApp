@@ -155,6 +155,10 @@ Other:
 
 Wireframes can be found [here](https://github.com/TeamTravelJournal/AndroidTravelJournalApp/blob/master/wireframesTravelJournal.pdf).
 
+## Final presentation
+
+https://www.youtube.com/watch?v=6kiDh9bWVBA
+
 ## Gif Walkthrough
 
 Sprint-3: June 24th 2015
